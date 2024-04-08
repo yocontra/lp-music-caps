@@ -15,7 +15,7 @@ setup(
         'matplotlib',
         'omegaconf',
         'astropy',
-        'transformers==4.26.1',
+        'transformers>=4.26.1',
         'openai',
         'python-dotenv',
         'tqdm',
